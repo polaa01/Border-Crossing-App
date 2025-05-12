@@ -17,4 +17,6 @@ Information about penalized passengers are serialized in separate files.
 
 Logger class is used for exception handling. Simulation can be paused/resumed.
 
+![image_alt](https://github.com/polaa01/Border-Crossing-App/blob/1a66bfd802f13e6079d0cfcb54d4163c8a7b2eeb/border-crossing1.PNG)
+
 
